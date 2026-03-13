@@ -32,5 +32,4 @@ def gerar_relatorio(totais, arquivo_saida):
 
 
 totais = processar_vendas('relatorio_vendas.txt')
-print(totais)
 gerar_relatorio(totais, 'saida_relatorio.txt')
