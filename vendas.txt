@@ -1,6 +1,0 @@
-Pantera Ataque M, 10, 899
-Pantera Ataque G, 8, 1549
-Pantera Ataque P, 15, 1199
-Leão Sentado G, 4, 1899
-Leão Sentado P, 14, 999
-Pantera Bebendo Água M, 10, 1599

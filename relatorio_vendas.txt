@@ -1,0 +1,11 @@
+Pantera M, 10, 999
+Pantera P, 7, 599
+Pantera PP, 23, 299
+Pantera G, 12, 1599
+Pantera GG, 4, 2099
+Leão M, 10, 1999
+Pantera Bebendo Água M, 8, 1299
+Cachorro Galgo M, 5, 1199
+Cachorro Galgo G, 8, 1599
+Leão Caminhando G, 7, 1599
+Leão Caminhando GG, 3, 4399
